@@ -1,6 +1,5 @@
 # Svelte_Practice
 
-Trying
-<img src="/Logo.png" height="50%" width="50%" alt="Svelte Logo">
+<img src="/Logo.png" height="15%" width="15%" alt="Svelte Logo" align="left">
 
 https://svelte.dev/
